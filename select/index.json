@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "...To Be Loved",
+  "base_artist": "Papa Roach",
+  "createdAt": "2026-03-16T06:16:04.543237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "To Be Loved By You",
+      "artist": "Parker McCollum",
+      "has_synced": true,
+      "path": "select/01_To_Be_Loved_By_You_Parker_McCollum.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "To Be Loved By You",
+      "artist": "Parker McCollum",
+      "has_synced": true,
+      "path": "select/02_To_Be_Loved_By_You_Parker_McCollum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To Be Loved By You - Live",
+      "artist": "Wynonna",
+      "has_synced": true,
+      "path": "select/03_To_Be_Loved_By_You_-_Live_Wynonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To Be Loved By You",
+      "artist": "Wynonna Judd",
+      "has_synced": true,
+      "path": "select/04_To_Be_Loved_By_You_Wynonna_Judd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All That I Need Is to Be Loved",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/05_All_That_I_Need_Is_to_Be_Loved_Moby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All That I Need Is To Be Loved (H.O.S. Mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/06_All_That_I_Need_Is_To_Be_Loved_(H.O.S._Mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Want to Be Loved #2",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/07_I_Want_to_Be_Loved__2_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Want to Be Loved by You",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/08_I_Want_to_Be_Loved_by_You_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Want to Be Loved by You",
+      "artist": "Sinead O'Connor",
+      "has_synced": true,
+      "path": "select/09_I_Want_to_Be_Loved_by_You_Sinead_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let’s Not Shit Ourselves (To Love and to Be Loved)",
+      "artist": "Bright Eyes",
+      "has_synced": false,
+      "path": "select/10_Let’s_Not_Shit_Ourselves_(To_Love_and_to_Be_Loved)_Bright_Eyes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To Be Loved",
+      "artist": "Bent",
+      "has_synced": true,
+      "path": "select/11_To_Be_Loved_Bent.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Want To Be Loved",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/12_I_Want_To_Be_Loved_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Want to Be Loved (Live)",
+      "artist": "Paul Gilbert",
+      "has_synced": false,
+      "path": "select/13_I_Want_to_Be_Loved_(Live)_Paul_Gilbert.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "...To Be Loved",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/14_...To_Be_Loved_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "…To Be Loved",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/15_...To_Be_Loved_Papa_Roach.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "…To Be Loved",
+      "artist": "Papa Roach",
+      "has_synced": false,
+      "path": "select/pl_01_...To_Be_Loved_Papa_Roach.txt"
+    }
+  ]
+}
